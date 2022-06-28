@@ -2,4 +2,4 @@
 
 A fast-paced course for getting up to speed with Git and Github
 
-Learning merge conflicts
+Learning GitHub on fireship.io
