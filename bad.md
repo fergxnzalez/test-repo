@@ -1,1 +1,1 @@
-File in bad commit
+File in bad commit.
